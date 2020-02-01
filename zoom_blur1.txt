@@ -1,0 +1,8 @@
+# GIMP 'Zoom Motion Blur' settings
+
+(time 0)
+(center-x 0.61639824304538804)
+(center-y 0.49739583333333331)
+(factor 0.153)
+
+# end of 'Zoom Motion Blur' settings

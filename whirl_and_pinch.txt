@@ -1,0 +1,8 @@
+# GIMP 'Whirl and Pinch' settings
+
+(time 0)
+(whirl -117.2)
+(pinch 0)
+(radius 1)
+
+# end of 'Whirl and Pinch' settings

@@ -1,0 +1,18 @@
+# GIMP 'Kaleidoscope' settings
+
+(time 0)
+(m-angle 0)
+(r-angle 0)
+(n-segs 6)
+(c-x 0.5)
+(c-y 1)
+(o-x 0)
+(o-y 0.13700000000000001)
+(trim-x 0)
+(trim-y 0.018000000000000009)
+(input-scale 68.120000000000005)
+(output-scale 1)
+(clip yes)
+(warp yes)
+
+# end of 'Kaleidoscope' settings
