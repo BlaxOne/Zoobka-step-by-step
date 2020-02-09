@@ -1,7 +1,7 @@
 # Zoobka step-by-step
 
 Here you will find everything needed to remake an actual zoobka. You will be able to examine the settings used at each step and therefore learn precisely how I proceed.
-Time needed to complete the step-by-step: 6 minutes
+Time needed to complete the step-by-step: less than 10 minutes
 
 Click the button "Clone or Download", then click "Download ZIP". Unzip and follow the instructions in Readme.txt
 
