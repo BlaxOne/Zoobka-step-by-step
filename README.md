@@ -11,4 +11,4 @@ The Zoobka tutorial:
 https://www.gimp-forum.net/Thread-Zoobka-A-technique-to-make-beautiful-material-effects
 
 Some samples of zoobkas:
-https://www.deviantart.com/g017/journal/Zoobka-A-technique-to-make-beautiful-abstracts-827116935
+https://www.deviantart.com/g017/journal/New-Zoobka-Art-Beautiful-abstracts-in-no-time-829163839
